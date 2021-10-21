@@ -2,8 +2,9 @@ import requests
 import os
 
 # Hide your API KEY
-KEY = os.environ["YAHOO_KEY"]
+# KEY = os.environ["YAHOO_KEY"]
 
+KEY = "Uuu04gRjLsanSr1b9JUXp3PzTXY7kMjV8mIFlMq3"
 
 class YahooApi:
     def __init__(self):
