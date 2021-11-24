@@ -33,4 +33,4 @@ class YahooApi:
 
 
 yahoo = YahooApi()
-print(yahoo.get_last_close_price("AAPL"))
+print(yahoo.get_last_close_price("MSFT"))
